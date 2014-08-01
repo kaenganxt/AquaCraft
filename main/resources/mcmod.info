@@ -1,0 +1,16 @@
+[
+{
+  "modid": "aquariumMod",
+  "name": "AquaCraft",
+  "description": "Coming Soon",
+  "version": "0.1",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["kaenganxt", "muxe666"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,6 @@
+itemGroup.aquaCraft=Aqua Craft Blocks
+itemGroup.aquaCraftAnimals=Aqua Craft Animals
+tile.aquaCoverLampBlock.name=Aquarium Cover Lamp
+tile.aquaEdgeBlock.name=Aquarium Block
+tile.aquaGlassBlock.name=Aquarium Window
+tile.aquaGeneratorBlock.name=Coal Generator
